@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">👋 Hello, I'm Biswajit Dey<br><br>I'm a coding enthusiast currently pursuing a BCA degree from Techno India University. Passionate about creating innovative solutions, I specialize in MERN (MongoDB, Express.js, React, Node.js) stack development. With a strong foundation in Java and Data Structures and Algorithms (DSA), I enjoy translating ideas into tangible projects.<br><br> 📫 Feel free to reach out to me at: <a href="mailto:officialbiswajitdey@gmail.com">officialbiswajitdey@gmail.com</a><br><br>- 📚 I'm currently learning React<br>- ⚡ In my free time, I channel my creativity into thinking about cool and exciting projects.</p>
+<p align="left">👋 Hello, I'm Biswajit Dey<br>I'm a coding enthusiast currently pursuing a BCA degree from Techno India University. Passionate about creating innovative solutions, I specialize in MERN (MongoDB, Express.js, React, Node.js) stack development. With a strong foundation in Java and Data Structures and Algorithms (DSA), I enjoy translating ideas into tangible projects.<br><br> 📫 Feel free to reach out to me at: <a href="mailto:officialbiswajitdey@gmail.com">officialbiswajitdey@gmail.com</a><br><br>- 📚 I'm currently learning React<br>- ⚡ In my free time, I channel my creativity into thinking about cool and exciting projects.</p>
 
 ###
 
