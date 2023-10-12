@@ -59,5 +59,12 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+🚀 What I Do:
+I love to embark on new projects, exploring the endless possibilities of coding and design. In my free time, I channel my creativity into thinking about cool and exciting projects. Whether it's solving a real-world problem or experimenting with cutting-edge technologies, I find joy in turning ideas into reality.
 
+🌱 Current Learning:
+Continuously expanding my skill set and staying updated with the latest technologies to keep my projects on the cutting edge.
+
+📫 Let's Connect:
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions. Let's code together and build something amazing!
 ###
