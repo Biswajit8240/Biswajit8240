@@ -58,7 +58,7 @@
 <hr>
 
 <h3 align="left">🔥   My Stats :</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Biswajit8240&theme=radical" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Phinix-BI&theme=radical" alt="GitHub Streak" /></a>
 <hr>
 <h3 align="left">🚀 What I Do :</h3>
 
