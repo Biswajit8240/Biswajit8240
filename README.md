@@ -71,4 +71,8 @@ Continuously expanding my skill set and staying updated with the latest technolo
 <h3 align="left">📫 Let's Connect :</h3>
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions. Let's code together and build something amazing!
+
+<li>GitHub: (https://github.com/Biswajit8240)</li>
+<li>LinkedIn: (https://www.linkedin.com/in/1biswajitdey/)</li>
+<li>LeetCode: (https://leetcode.com/phinix_01/)</li>
 ###
