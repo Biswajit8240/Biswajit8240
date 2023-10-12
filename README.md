@@ -28,9 +28,8 @@
 
 <h3>👋 Hello, I'm Biswajit Dey</h3>
 <hr>
-<br>
 <p align="left">I'm a coding enthusiast currently pursuing a BCA degree from Techno India University. Passionate about creating innovative solutions, I specialize in MERN (MongoDB, Express.js, React, Node.js) stack development. With a strong foundation in Java and Data Structures and Algorithms (DSA), I enjoy translating ideas into tangible projects.<br><br> 📫 Feel free to reach out to me at: <a href="mailto:officialbiswajitdey@gmail.com">officialbiswajitdey@gmail.com</a><br><br>- 📚 I'm currently learning React<br>- ⚡ In my free time, I channel my creativity into thinking about cool and exciting projects.</p>
-
+<hr>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -58,7 +57,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-
+<hr>
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
