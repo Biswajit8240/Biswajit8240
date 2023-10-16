@@ -59,6 +59,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Phinix-BI&theme=radical" alt="GitHub Streak" /></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=R1MO9&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <hr>
 <h3 align="left">🚀 What I Do :</h3>
 
