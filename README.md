@@ -60,7 +60,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Phinix-BI&theme=radical" alt="GitHub Streak" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1MO9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phinix-BI&layout=compact)](https://github.com/Phinix-BI/github-readme-stats)
 <hr>
 <h3 align="left">🚀 What I Do :</h3>
 
