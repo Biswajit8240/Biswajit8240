@@ -60,7 +60,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Phinix-BI&theme=radical" alt="GitHub Streak" />
 </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Phinix-BI=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?R1MO9=CharalambosIoannou&theme=tokyonight)
 <hr>
 <h3 align="left">🚀 What I Do :</h3>
 
