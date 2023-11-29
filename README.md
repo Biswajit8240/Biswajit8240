@@ -61,7 +61,7 @@
 </div>
 <hr>
 
-<h3 align="left">🔥   My Stats :</h3>
+### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Phinix-BI&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phinix-BI&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
