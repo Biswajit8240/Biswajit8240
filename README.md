@@ -65,7 +65,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Phinix-BI&theme=radical" alt="GitHub Streak" />
 </a>
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=R1MO9&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phinix-BI&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 <hr>
